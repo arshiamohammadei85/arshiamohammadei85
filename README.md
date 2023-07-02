@@ -1,6 +1,10 @@
 # 💫 About Me:
-Programmer approved by the university 👨‍🎓 Teacher of programming and artificial intelligence 👨‍🏫 Member of the elite club 🕵️ Barća R❤<br>
-
+Hello, I am Arshiya Mohammadi, a programmer approved by Microsoft and Iran's top universities, including Kurdistan Sharif Industrial University and...
+I started programming since 2011 and I have made good progress in this field
+I am a programming lecturer in research institutes and top scientific educational centers in Iran
+Currently, I am designing a system similar to Laravel that can make the work of programmers much easier than it is.
+You can participate in this project, just follow me!
+I love you very much <3
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshiamohammadei) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/arshiamohammadei) 
