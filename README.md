@@ -32,6 +32,5 @@ I love you very much <3
 <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=arshiamohammadei85&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
-[![](https://visitcount.itsvg.in/api?id=arshiamohammadei85&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=arshiamohammadei85&icon=4&color=1)](https://visitcount.itsvg.in)
